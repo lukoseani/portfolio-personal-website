@@ -808,15 +808,7 @@ properly.
    margin-left:160px;
    color:green;
 }
-.submit-button{
-   
-   margin-left:165px;
-}
-@media screen and (max-width: 600px) {
-      .responsive-button {
-	margin-left:auto;
-      }
-    }
+
 
 
 
